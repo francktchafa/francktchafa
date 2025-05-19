@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @francktchafa
-- 👀 I’m interested in ML/DL for healthcare, engineering, predictive maintenance, and sensor optimization.
-- 🌱 I’m currently learning advanced deep learning for computer vision, time-series analysis and more
-- 💞️ I’m open to collaborations on AI-driven optimization, predictive modeling, automation, etc.
+- 🔍 My expertise spans AI-driven automation, predictive maintenance, Computer Vision, NLP, and more.
+- 🤝 I’m actively exploring collaborations in AI-driven optimization, automation, and intelligent systems development. Let’s connect!
 - 📫 How to reach me: franck.tchafa@yahoo.com
-
 
 <!---
 francktchafa/francktchafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
